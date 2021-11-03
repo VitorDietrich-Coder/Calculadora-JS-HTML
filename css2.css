@@ -1,0 +1,91 @@
+body{
+    background-color: black;
+    color: black;
+    }
+    p{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+    }
+    .two-home {
+        background-color: white;
+        padding: 2% 4% 4% 4%;
+        border: none;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 28px;
+        margin: 5% 25% 10% 25%;
+        border-radius: 2%;
+        width: 30%;
+        height: 40%; 
+    }
+
+    button.dividir{
+        transition-duration: 0.4s;
+        color: black ;
+        background-color: white;
+        border: solid 3px lawngreen;
+        border-radius: 1%;
+        text-align: center;
+        font-size: 20px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin: 0% 0% 0% 0%;
+    
+        padding: 15px 30px;
+      
+    }
+    button.dividir:hover{
+        color:white;
+        background-color: lawngreen;
+        padding: 15px 30px;
+        margin: none;
+        border-radius: 8px;
+    }
+
+    button.sair{
+        transition-duration: 0.4s;
+        color: black ;
+        background-color: white;
+        border: solid 3px red;
+        border-radius: 1%;
+        text-align: center;
+        font-size: 20px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin: 0%  0% 0% 0%;
+        padding: 15px 18px;
+      
+    }   
+
+    button.sair:hover{
+        color:white;
+        background-color: red;
+        padding: 15px 18px; 
+        margin: none;
+        border-radius: 8px;
+    }
+    input.vetor3{
+        background-color: lawngreen;
+        margin: 0% 10% 0% 0%;
+        padding: 12px 10px;
+        border: none;
+        font-size: 60%;
+    }
+    input.vetor4{
+        background-color: lawngreen;
+        margin: 0% 10% 0% 0%;
+        padding: 12px 10px;
+        border: none;   
+        font-size: 60%;
+    }
+    a{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 25px;
+        margin: 0% 0% 0% 0%;
+       
+    }
+    p#resultado1{
+    padding: 0% 0% 0% 0%;
+    margin: 0% 0% 0% 21%;
+    border: none;
+    width: 0%;
+    height: 10%;
+    }

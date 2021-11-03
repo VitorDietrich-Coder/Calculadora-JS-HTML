@@ -1,0 +1,135 @@
+body{
+background-color: black;
+color: black;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+}
+.home1 {
+    background-color: white;
+    padding: 2% 4% 4% 4%;
+    border: none;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    margin: 5% 40% 10% 30%;
+    border-radius: 2%;
+    width: 32%;
+
+}
+button.btn1{
+    transition-duration: 0.4s;
+    color: black ;
+    background-color: white;
+    border: solid 3px lawngreen;
+    border-radius: 1%;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0% 0% 0% 0%;
+    padding: 15px 30px;
+  
+}
+
+
+button.btn1:hover{
+    color:white;
+    background-color: lawngreen;
+    padding: 15px 30px;
+    margin: none;
+    border-radius: 8px;
+}
+
+button.divisao{
+    transition-duration: 0.4s;
+    color: black ;
+    background-color: white;
+    border: solid 3px lawngreen;
+    border-radius: 1%;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0% 0% 0% 5%;
+    padding: 15px 30px;
+  
+}
+
+button.divisao:hover{
+    color:white;
+    background-color: lawngreen;
+    padding: 15px 30px;
+    margin: none;
+    border-radius: 8px;
+}
+
+button.subtracao{
+    transition-duration: 0.4s;
+    color: black ;
+    background-color: white;
+    border: solid 3px lawngreen;
+    border-radius: 1%;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 5% 0% 0% 5%;
+    padding: 15px 30px;
+  
+}
+
+
+button.subtracao:hover{
+    color:white;
+    background-color: lawngreen;
+    padding: 15px 30px;
+    margin: none;
+    border-radius: 8px;
+}
+
+button.multiplicacao{
+    transition-duration: 0.4s;
+    color: black ;
+    background-color: white;
+    border: solid 3px lawngreen;
+    border-radius: 1%;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0% 0% 0% 2%;
+    padding: 15px 30px;
+  
+}
+
+
+button.multiplicacao:hover{
+    color:white;
+    background-color: lawngreen;
+    padding: 15px 30px;
+    margin: none;
+    border-radius: 8px;
+}
+
+
+button.sair{
+    transition-duration: 0.4s;
+    color: black ;
+    background-color: white;
+    border: solid 3px red;
+    border-radius: 1%;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10% 0% 0% 0%;
+    padding: 15px 30px;
+  
+}
+
+
+button.sair:hover{
+    color:white;
+    background-color:red;
+    padding: 15px 30px;
+    margin: none;
+    border-radius: 8px;
+}
